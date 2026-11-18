@@ -1,0 +1,53 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "5izfiuLvRpk",
+  "title": "2. Human Behavioral Biology: Evolution of Behavior 1 by Robert Sapolsky",
+  "durationSeconds": 4746,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to behaviors"
+    },
+    {
+      "seconds": 154,
+      "label": "Individual selection"
+    },
+    {
+      "seconds": 513,
+      "label": "Kin selection and genetics"
+    },
+    {
+      "seconds": 759,
+      "label": "Hamilton's law of kin selection"
+    },
+    {
+      "seconds": 1055,
+      "label": "Kin selection in nature"
+    },
+    {
+      "seconds": 1531,
+      "label": "Reciprocal altruism"
+    },
+    {
+      "seconds": 1925,
+      "label": "The logic of cooperation"
+    },
+    {
+      "seconds": 2864,
+      "label": "Game theory and strategy"
+    },
+    {
+      "seconds": 3522,
+      "label": "Tit for tat and cheating"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=5izfiuLvRpk",
+  "retrieved": "2026-11-09",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-10",
+  "counts": {
+    "mit-psychology": {
+      "videos": 24,
+      "withTopics": 24,
+      "chapters": 131
+    },
+    "yale-psychology": {
+      "videos": 20,
+      "withTopics": 20,
+      "chapters": 121
+    },
+    "sapolsky-behavior": {
+      "videos": 32,
+      "withTopics": 29,
+      "chapters": 382
+    },
+    "pinker-talks": {
+      "videos": 24,
+      "withTopics": 19,
+      "chapters": 290
+    }
+  },
+  "unavailable": [
+    {
+      "course": "sapolsky-behavior",
+      "id": "sapolsky-behavior-dCHTbOyZMgc",
+      "video": "dCHTbOyZMgc",
+      "title": "25. Violence and its Antidotes 3 by Robert Sapolsky",
+      "url": "https://www.youtube.com/watch?v=dCHTbOyZMgc",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "sapolsky-behavior",
+      "id": "sapolsky-behavior-YTXEw0cFo6U",
+      "video": "YTXEw0cFo6U",
+      "title": "27. Violence and its Antidotes 5 by Robert Sapolsky",
+      "url": "https://www.youtube.com/watch?v=YTXEw0cFo6U",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "sapolsky-behavior",
+      "id": "sapolsky-behavior-piu7l2v8JiY",
+      "video": "piu7l2v8JiY",
+      "title": "28. Violence and its Antidotes 6 by Robert Sapolsky",
+      "url": "https://www.youtube.com/watch?v=piu7l2v8JiY",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "pinker-talks",
+      "id": "pinker-talks-KJ9Ad6s8g7I",
+      "video": "KJ9Ad6s8g7I",
+      "title": "Understanding Human Nature with Steven Pinker - Conversations with History",
+      "url": "https://www.youtube.com/watch?v=KJ9Ad6s8g7I",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "pinker-talks",
+      "id": "pinker-talks-XRt-iYgXJP8",
+      "video": "XRt-iYgXJP8",
+      "title": "Professor Steven Pinker Public Lecture",
+      "url": "https://www.youtube.com/watch?v=XRt-iYgXJP8",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "pinker-talks",
+      "id": "pinker-talks-QqVG4-ykP4c",
+      "video": "QqVG4-ykP4c",
+      "title": "The Psychology of Religion - Steven Pinker",
+      "url": "https://www.youtube.com/watch?v=QqVG4-ykP4c",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "pinker-talks",
+      "id": "pinker-talks-fmXAd186ud0",
+      "video": "fmXAd186ud0",
+      "title": "Steven Pinker - Origins Symposium - The Cognitive Niche",
+      "url": "https://www.youtube.com/watch?v=fmXAd186ud0",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    },
+    {
+      "course": "pinker-talks",
+      "id": "pinker-talks-9GubdYZPYPg",
+      "video": "9GubdYZPYPg",
+      "title": "Steven Pinker on Good Writing, with Ian McEwan",
+      "url": "https://www.youtube.com/watch?v=9GubdYZPYPg",
+      "reason": "No topic chapters supplied in the retrieved source metadata."
+    }
+  ]
+}

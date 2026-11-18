@@ -1,0 +1,117 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "lH1ayPzddwk",
+  "title": "24. Violence and its Antidotes 2 by Robert Sapolsky",
+  "durationSeconds": 5221,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to aggression"
+    },
+    {
+      "seconds": 115,
+      "label": "The role of the amygdala"
+    },
+    {
+      "seconds": 216,
+      "label": "Amygdalectomy and controversy"
+    },
+    {
+      "seconds": 393,
+      "label": "Amygdala subsections and connectivity"
+    },
+    {
+      "seconds": 488,
+      "label": "Trauma and neural plasticity"
+    },
+    {
+      "seconds": 612,
+      "label": "Amygdala circuitry and sensory shortcuts"
+    },
+    {
+      "seconds": 770,
+      "label": "Williams syndrome and social behavior"
+    },
+    {
+      "seconds": 1071,
+      "label": "Contextual amygdala reactivity"
+    },
+    {
+      "seconds": 1160,
+      "label": "Prefrontal cortex regulation"
+    },
+    {
+      "seconds": 1354,
+      "label": "Prefrontal cortex vulnerability"
+    },
+    {
+      "seconds": 1522,
+      "label": "Legal implications of frontal damage"
+    },
+    {
+      "seconds": 1752,
+      "label": "Acquired sociopathy"
+    },
+    {
+      "seconds": 1920,
+      "label": "Repressive personality vs. sociopathy"
+    },
+    {
+      "seconds": 2073,
+      "label": "Impulsive vs. premeditated aggression"
+    },
+    {
+      "seconds": 2244,
+      "label": "Delay of gratification and impulse control"
+    },
+    {
+      "seconds": 2485,
+      "label": "Aging and disinhibition"
+    },
+    {
+      "seconds": 2691,
+      "label": "Additional limbic structures"
+    },
+    {
+      "seconds": 2874,
+      "label": "Insula and moral disgust"
+    },
+    {
+      "seconds": 3075,
+      "label": "The Lady Macbeth effect"
+    },
+    {
+      "seconds": 3264,
+      "label": "Emotions in moral decision making"
+    },
+    {
+      "seconds": 3538,
+      "label": "Autonomic signatures of emotion"
+    },
+    {
+      "seconds": 3831,
+      "label": "Neurochemistry of aggression"
+    },
+    {
+      "seconds": 4032,
+      "label": "MAO and gene-environment interactions"
+    },
+    {
+      "seconds": 4180,
+      "label": "Alcohol and social cues"
+    },
+    {
+      "seconds": 4490,
+      "label": "Environmental and societal triggers"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=lH1ayPzddwk",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

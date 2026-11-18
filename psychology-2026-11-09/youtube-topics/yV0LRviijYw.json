@@ -1,0 +1,73 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "yV0LRviijYw",
+  "title": "32. Individual Differences by Robert Sapolsky",
+  "durationSeconds": 4120,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "The illusion of free will"
+    },
+    {
+      "seconds": 142,
+      "label": "Shifting attributions of blame"
+    },
+    {
+      "seconds": 285,
+      "label": "Biology and humane treatment"
+    },
+    {
+      "seconds": 535,
+      "label": "Continuum of biological variance"
+    },
+    {
+      "seconds": 790,
+      "label": "Neurobiology of complex traits"
+    },
+    {
+      "seconds": 1081,
+      "label": "Neurological basis of Tourette's"
+    },
+    {
+      "seconds": 1511,
+      "label": "Hoarding and psychiatric extremes"
+    },
+    {
+      "seconds": 1671,
+      "label": "Delusions of reality and place"
+    },
+    {
+      "seconds": 2031,
+      "label": "Compulsive disorders"
+    },
+    {
+      "seconds": 2180,
+      "label": "Delusions of identity"
+    },
+    {
+      "seconds": 2560,
+      "label": "Factitious disorders"
+    },
+    {
+      "seconds": 2947,
+      "label": "Complex body and identity syndromes"
+    },
+    {
+      "seconds": 3308,
+      "label": "The universality of human quirks"
+    },
+    {
+      "seconds": 3564,
+      "label": "Compassionate machines"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=yV0LRviijYw",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

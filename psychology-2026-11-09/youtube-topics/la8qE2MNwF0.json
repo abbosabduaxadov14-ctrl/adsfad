@@ -1,0 +1,114 @@
+{
+  "id": "pinker-talks",
+  "video": "la8qE2MNwF0",
+  "title": "The past, present, and future of violence by Steven Pinker",
+  "durationSeconds": 4358,
+  "publisher": "Economics. For Society.",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 45,
+      "label": "Decline of violence"
+    },
+    {
+      "seconds": 189,
+      "label": "First decline of violence"
+    },
+    {
+      "seconds": 253,
+      "label": "Second decline of violence"
+    },
+    {
+      "seconds": 554,
+      "label": "Slavery"
+    },
+    {
+      "seconds": 604,
+      "label": "Causes of the humanitarian revolution"
+    },
+    {
+      "seconds": 686,
+      "label": "Why literacy matters"
+    },
+    {
+      "seconds": 761,
+      "label": "Declines in war"
+    },
+    {
+      "seconds": 811,
+      "label": "The long piece"
+    },
+    {
+      "seconds": 899,
+      "label": "The new piece"
+    },
+    {
+      "seconds": 1073,
+      "label": "Rights revolutions"
+    },
+    {
+      "seconds": 1211,
+      "label": "Why is violence declining"
+    },
+    {
+      "seconds": 1405,
+      "label": "Our better angels"
+    },
+    {
+      "seconds": 1493,
+      "label": "The availability heuristic"
+    },
+    {
+      "seconds": 1611,
+      "label": "The bad news"
+    },
+    {
+      "seconds": 1712,
+      "label": "Civil wars"
+    },
+    {
+      "seconds": 1791,
+      "label": "Homicide"
+    },
+    {
+      "seconds": 1930,
+      "label": "Summary"
+    },
+    {
+      "seconds": 1985,
+      "label": "Future of violence"
+    },
+    {
+      "seconds": 2172,
+      "label": "The future of violence"
+    },
+    {
+      "seconds": 2361,
+      "label": "Why is violence declined"
+    },
+    {
+      "seconds": 2730,
+      "label": "International humanitarian law"
+    },
+    {
+      "seconds": 2903,
+      "label": "Pace or problem"
+    },
+    {
+      "seconds": 3211,
+      "label": "Animals"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=la8qE2MNwF0",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

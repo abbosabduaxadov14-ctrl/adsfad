@@ -1,0 +1,73 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "r6tEbbZ630w",
+  "title": "29. Depression by Robert Sapolsky",
+  "durationSeconds": 5096,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to depression"
+    },
+    {
+      "seconds": 56,
+      "label": "Defining major depression"
+    },
+    {
+      "seconds": 322,
+      "label": "Symptoms and cognition"
+    },
+    {
+      "seconds": 643,
+      "label": "Physical effects and suicide"
+    },
+    {
+      "seconds": 842,
+      "label": "Neurochemistry of depression"
+    },
+    {
+      "seconds": 1138,
+      "label": "Glutamate and new treatments"
+    },
+    {
+      "seconds": 1521,
+      "label": "Brain circuitry changes"
+    },
+    {
+      "seconds": 1939,
+      "label": "Hormonal and structural impacts"
+    },
+    {
+      "seconds": 2341,
+      "label": "Stress and kindling"
+    },
+    {
+      "seconds": 2787,
+      "label": "Structural brain atrophy"
+    },
+    {
+      "seconds": 3113,
+      "label": "Psychology of stress"
+    },
+    {
+      "seconds": 3801,
+      "label": "Early life adversity"
+    },
+    {
+      "seconds": 4214,
+      "label": "Genetics of vulnerability"
+    },
+    {
+      "seconds": 4721,
+      "label": "Evolutionary perspective"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=r6tEbbZ630w",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "MJzi-E3Rltc",
+  "title": "4. Human Behavioral Biology: Evolution of Behavior 3 by Robert Sapolsky",
+  "durationSeconds": 4372,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "The pillars of relatedness"
+    },
+    {
+      "seconds": 114,
+      "label": "The inbreeding problem"
+    },
+    {
+      "seconds": 369,
+      "label": "Baboon social cognition"
+    },
+    {
+      "seconds": 594,
+      "label": "Molecular kin recognition"
+    },
+    {
+      "seconds": 909,
+      "label": "Pheromones and odors"
+    },
+    {
+      "seconds": 1201,
+      "label": "Immune system signaling"
+    },
+    {
+      "seconds": 1446,
+      "label": "Adult neurogenesis"
+    },
+    {
+      "seconds": 1755,
+      "label": "Sensory cues and imprinting"
+    },
+    {
+      "seconds": 2095,
+      "label": "Cognitive kin recognition"
+    },
+    {
+      "seconds": 2410,
+      "label": "Paternity and probability"
+    },
+    {
+      "seconds": 2866,
+      "label": "Cognitive strategies in fish"
+    },
+    {
+      "seconds": 3047,
+      "label": "Human recognition systems"
+    },
+    {
+      "seconds": 3379,
+      "label": "Early childhood effects"
+    },
+    {
+      "seconds": 3588,
+      "label": "Pseudo-kinship and conflict"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=MJzi-E3Rltc",
+  "retrieved": "2026-11-09",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

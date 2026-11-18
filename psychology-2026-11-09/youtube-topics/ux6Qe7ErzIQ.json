@@ -1,0 +1,69 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "ux6Qe7ErzIQ",
+  "title": "18. Human Behavioral Biology: Emergence 2 by Robert Sapolsky",
+  "durationSeconds": 4959,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to emergence"
+    },
+    {
+      "seconds": 69,
+      "label": "Bees and swarm intelligence"
+    },
+    {
+      "seconds": 153,
+      "label": "Ant colony foraging"
+    },
+    {
+      "seconds": 218,
+      "label": "Slime mold problem solving"
+    },
+    {
+      "seconds": 574,
+      "label": "Development of the cortex"
+    },
+    {
+      "seconds": 979,
+      "label": "Fractal geometry principles"
+    },
+    {
+      "seconds": 1310,
+      "label": "Biological branching systems"
+    },
+    {
+      "seconds": 1565,
+      "label": "Neural branching and evolution"
+    },
+    {
+      "seconds": 2383,
+      "label": "Urban planning and clustering"
+    },
+    {
+      "seconds": 2775,
+      "label": "Neural attraction and repulsion"
+    },
+    {
+      "seconds": 3266,
+      "label": "Power law distributions"
+    },
+    {
+      "seconds": 3499,
+      "label": "Cortical connectivity patterns"
+    },
+    {
+      "seconds": 4051,
+      "label": "Emergence in complex systems"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=ux6Qe7ErzIQ",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pinker-talks",
+  "video": "9GubdYZPYPg",
+  "title": "Steven Pinker on Good Writing, with Ian McEwan",
+  "durationSeconds": 4683,
+  "publisher": "Intelligence Squared",
+  "chapters": [],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=9GubdYZPYPg",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

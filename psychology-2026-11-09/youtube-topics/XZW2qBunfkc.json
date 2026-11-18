@@ -1,0 +1,129 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "XZW2qBunfkc",
+  "title": "3. Human Behavioral Biology: Evolution of Behavior 2 by Robert Sapolsky",
+  "durationSeconds": 5199,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Foundation of evolution"
+    },
+    {
+      "seconds": 68,
+      "label": "Cooperation and altruism"
+    },
+    {
+      "seconds": 116,
+      "label": "Cheating and detection"
+    },
+    {
+      "seconds": 144,
+      "label": "Game theory and trust"
+    },
+    {
+      "seconds": 219,
+      "label": "Real-world examples"
+    },
+    {
+      "seconds": 342,
+      "label": "The jumpstart problem"
+    },
+    {
+      "seconds": 475,
+      "label": "Greenbeard effects"
+    },
+    {
+      "seconds": 658,
+      "label": "Founder populations"
+    },
+    {
+      "seconds": 760,
+      "label": "Altruism in context"
+    },
+    {
+      "seconds": 1033,
+      "label": "Sexual dimorphism"
+    },
+    {
+      "seconds": 1222,
+      "label": "Reproductive variance"
+    },
+    {
+      "seconds": 1275,
+      "label": "Male and female strategies"
+    },
+    {
+      "seconds": 1698,
+      "label": "Sperm competition"
+    },
+    {
+      "seconds": 1861,
+      "label": "Bet hedging and pair-bonding"
+    },
+    {
+      "seconds": 2022,
+      "label": "Stable pair bonds"
+    },
+    {
+      "seconds": 2094,
+      "label": "Tournament species"
+    },
+    {
+      "seconds": 2257,
+      "label": "Humans as an exception"
+    },
+    {
+      "seconds": 2372,
+      "label": "Competitive infanticide"
+    },
+    {
+      "seconds": 2828,
+      "label": "Female counter-strategies"
+    },
+    {
+      "seconds": 3273,
+      "label": "Adaptive miscarriage"
+    },
+    {
+      "seconds": 3593,
+      "label": "Imprinted genes"
+    },
+    {
+      "seconds": 3795,
+      "label": "Imprinting in humans"
+    },
+    {
+      "seconds": 4033,
+      "label": "Kidnapping behavior"
+    },
+    {
+      "seconds": 4120,
+      "label": "Nepotism and rank"
+    },
+    {
+      "seconds": 4185,
+      "label": "Sex ratio control"
+    },
+    {
+      "seconds": 4380,
+      "label": "Alternative mating systems"
+    },
+    {
+      "seconds": 4550,
+      "label": "Neo-group selection"
+    },
+    {
+      "seconds": 4920,
+      "label": "Critiques of evolution"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=XZW2qBunfkc",
+  "retrieved": "2026-11-09",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

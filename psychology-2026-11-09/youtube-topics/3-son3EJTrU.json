@@ -1,0 +1,42 @@
+{
+  "id": "pinker-talks",
+  "video": "3-son3EJTrU",
+  "title": "RSA ANIMATE: Language as a Window into Human Nature",
+  "durationSeconds": 653,
+  "publisher": "Royal Society of Arts",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "The puzzle of indirect speech"
+    },
+    {
+      "seconds": 145,
+      "label": "Balancing content and relations"
+    },
+    {
+      "seconds": 211,
+      "label": "Three human relationship types"
+    },
+    {
+      "seconds": 316,
+      "label": "Relationship clashes and ambiguity"
+    },
+    {
+      "seconds": 386,
+      "label": "The comfort of indirectness"
+    },
+    {
+      "seconds": 460,
+      "label": "The power of mutual knowledge"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=3-son3EJTrU",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

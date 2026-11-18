@@ -1,0 +1,58 @@
+{
+  "id": "pinker-talks",
+  "video": "eay1-m7RpoU",
+  "title": "Steven Pinker: The Elephant, the Emperor, and the Matzo Ball",
+  "durationSeconds": 2618,
+  "publisher": "PsychologicalScience",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Defining common knowledge"
+    },
+    {
+      "seconds": 64,
+      "label": "Applications in other fields"
+    },
+    {
+      "seconds": 187,
+      "label": "Common knowledge in economy"
+    },
+    {
+      "seconds": 323,
+      "label": "Psychology of coordination"
+    },
+    {
+      "seconds": 578,
+      "label": "Testing coordination"
+    },
+    {
+      "seconds": 806,
+      "label": "Indirect speech and bribery"
+    },
+    {
+      "seconds": 1122,
+      "label": "Relationship mismatches"
+    },
+    {
+      "seconds": 1628,
+      "label": "The logic of innuendo"
+    },
+    {
+      "seconds": 2108,
+      "label": "Self-conscious emotions"
+    },
+    {
+      "seconds": 2425,
+      "label": "Final synthesis"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=eay1-m7RpoU",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

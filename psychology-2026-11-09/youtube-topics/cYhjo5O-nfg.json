@@ -1,0 +1,161 @@
+{
+  "id": "pinker-talks",
+  "video": "cYhjo5O-nfg",
+  "title": "Mastering Style: The Learning and Teaching of Writing",
+  "durationSeconds": 4552,
+  "publisher": "Harvard University",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 245,
+      "label": "Why is writing bad"
+    },
+    {
+      "seconds": 430,
+      "label": "Why is writing hard"
+    },
+    {
+      "seconds": 488,
+      "label": "Improving the craft of writing"
+    },
+    {
+      "seconds": 584,
+      "label": "The style is conversation"
+    },
+    {
+      "seconds": 653,
+      "label": "An example"
+    },
+    {
+      "seconds": 917,
+      "label": "The compulsive hedging"
+    },
+    {
+      "seconds": 1068,
+      "label": "Classic prose"
+    },
+    {
+      "seconds": 1400,
+      "label": "The ribbon experiment"
+    },
+    {
+      "seconds": 1513,
+      "label": "The rabbit illusion"
+    },
+    {
+      "seconds": 1762,
+      "label": "Get a real reader"
+    },
+    {
+      "seconds": 1804,
+      "label": "Summary"
+    },
+    {
+      "seconds": 1830,
+      "label": "Shoes"
+    },
+    {
+      "seconds": 1888,
+      "label": "Personal Experience"
+    },
+    {
+      "seconds": 1927,
+      "label": "Newspaper Style"
+    },
+    {
+      "seconds": 2000,
+      "label": "Al Hunt"
+    },
+    {
+      "seconds": 2045,
+      "label": "John Kerry"
+    },
+    {
+      "seconds": 2069,
+      "label": "Consultants"
+    },
+    {
+      "seconds": 2111,
+      "label": "Lawyers"
+    },
+    {
+      "seconds": 2138,
+      "label": "Obfuscation"
+    },
+    {
+      "seconds": 2183,
+      "label": "I remain an optimist"
+    },
+    {
+      "seconds": 2274,
+      "label": "The role of journalists"
+    },
+    {
+      "seconds": 2324,
+      "label": "Journalism shows and doesnt tell"
+    },
+    {
+      "seconds": 2410,
+      "label": "The digital age"
+    },
+    {
+      "seconds": 2446,
+      "label": "The Twitter effect"
+    },
+    {
+      "seconds": 2594,
+      "label": "Robowriting"
+    },
+    {
+      "seconds": 2728,
+      "label": "Descriptive Writing"
+    },
+    {
+      "seconds": 2768,
+      "label": "AJ Lee Blank"
+    },
+    {
+      "seconds": 2968,
+      "label": "Bad Writing"
+    },
+    {
+      "seconds": 3387,
+      "label": "Legalese"
+    },
+    {
+      "seconds": 3512,
+      "label": "Questions"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "language": "fr-FR",
+      "kind": "asr"
+    },
+    {
+      "language": "hi",
+      "kind": "asr"
+    },
+    {
+      "language": "id",
+      "kind": "asr"
+    },
+    {
+      "language": "pt-BR",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=cYhjo5O-nfg",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

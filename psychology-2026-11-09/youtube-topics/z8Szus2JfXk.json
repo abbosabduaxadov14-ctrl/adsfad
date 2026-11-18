@@ -1,0 +1,77 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "z8Szus2JfXk",
+  "title": "26. Violence and its Antidotes 4 by Robert Sapolsky",
+  "durationSeconds": 5072,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Testosterone and aggression"
+    },
+    {
+      "seconds": 58,
+      "label": "The myth of oxytocin"
+    },
+    {
+      "seconds": 289,
+      "label": "Childhood adversity and culture"
+    },
+    {
+      "seconds": 368,
+      "label": "Social context and learning"
+    },
+    {
+      "seconds": 661,
+      "label": "Parenting styles and childhood"
+    },
+    {
+      "seconds": 883,
+      "label": "Moral reasoning versus action"
+    },
+    {
+      "seconds": 1225,
+      "label": "Peer influence and tribalism"
+    },
+    {
+      "seconds": 1598,
+      "label": "Roots of prejudice"
+    },
+    {
+      "seconds": 1805,
+      "label": "Limitations of contact theory"
+    },
+    {
+      "seconds": 2179,
+      "label": "Prenatal environment and development"
+    },
+    {
+      "seconds": 2438,
+      "label": "Marshmallow test and development"
+    },
+    {
+      "seconds": 2724,
+      "label": "Adolescent brain development"
+    },
+    {
+      "seconds": 3171,
+      "label": "Empathy, conformity, and action"
+    },
+    {
+      "seconds": 3576,
+      "label": "Hormones and genetics"
+    },
+    {
+      "seconds": 4764,
+      "label": "Gene-environment interactions"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=z8Szus2JfXk",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

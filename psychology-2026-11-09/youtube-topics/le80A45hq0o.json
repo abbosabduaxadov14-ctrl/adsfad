@@ -1,0 +1,58 @@
+{
+  "id": "pinker-talks",
+  "video": "le80A45hq0o",
+  "title": "Steven Pinker on Violence",
+  "durationSeconds": 6462,
+  "publisher": "Harvard University",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction and lecture"
+    },
+    {
+      "seconds": 1151,
+      "label": "The six historical trends"
+    },
+    {
+      "seconds": 1724,
+      "label": "Panelist critique"
+    },
+    {
+      "seconds": 2325,
+      "label": "Costs of safety and commerce"
+    },
+    {
+      "seconds": 2820,
+      "label": "Evolutionary psychology"
+    },
+    {
+      "seconds": 3144,
+      "label": "Trends in warfare"
+    },
+    {
+      "seconds": 3520,
+      "label": "The nuclear threat"
+    },
+    {
+      "seconds": 4080,
+      "label": "Ideology and social science"
+    },
+    {
+      "seconds": 4838,
+      "label": "Emotional vs quantitative"
+    },
+    {
+      "seconds": 5865,
+      "label": "Audience Q&A"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=le80A45hq0o",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

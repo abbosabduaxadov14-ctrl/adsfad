@@ -1,0 +1,17 @@
+{
+  "id": "pinker-talks",
+  "video": "QqVG4-ykP4c",
+  "title": "The Psychology of Religion - Steven Pinker",
+  "durationSeconds": 2493,
+  "publisher": "Prometheus Unchained",
+  "chapters": [],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=QqVG4-ykP4c",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

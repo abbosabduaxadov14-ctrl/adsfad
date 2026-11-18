@@ -1,0 +1,77 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "nuuK95ONPVY",
+  "title": "19. Human Behavioral Biology: Sexuality 1 by Robert Sapolsky",
+  "durationSeconds": 5351,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to sex study"
+    },
+    {
+      "seconds": 26,
+      "label": "Proximal and distal causes"
+    },
+    {
+      "seconds": 310,
+      "label": "Biological mechanisms of sex"
+    },
+    {
+      "seconds": 545,
+      "label": "Sexual terminology"
+    },
+    {
+      "seconds": 696,
+      "label": "Human sexual universals"
+    },
+    {
+      "seconds": 1061,
+      "label": "Human-specific sexual traits"
+    },
+    {
+      "seconds": 1358,
+      "label": "Affiliative bonding and kissing"
+    },
+    {
+      "seconds": 1517,
+      "label": "Homosexuality and fluidity"
+    },
+    {
+      "seconds": 1809,
+      "label": "Brain regions of sexual arousal"
+    },
+    {
+      "seconds": 2104,
+      "label": "Amygdala and nervous system"
+    },
+    {
+      "seconds": 2310,
+      "label": "Autonomic differences and orgasm"
+    },
+    {
+      "seconds": 2676,
+      "label": "Adaptive vs. spandrel orgasm"
+    },
+    {
+      "seconds": 3054,
+      "label": "Neurobiology of reward"
+    },
+    {
+      "seconds": 3249,
+      "label": "The role of the frontal cortex"
+    },
+    {
+      "seconds": 3408,
+      "label": "Hormones and environment"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=nuuK95ONPVY",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

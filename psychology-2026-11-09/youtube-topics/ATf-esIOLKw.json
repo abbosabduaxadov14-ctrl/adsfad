@@ -1,0 +1,166 @@
+{
+  "id": "pinker-talks",
+  "video": "ATf-esIOLKw",
+  "title": "Steven Pinker - Enlightenment Now: The Case for Reason, Science, Humanism, & Progress",
+  "durationSeconds": 3616,
+  "publisher": "The Artificial Intelligence Channel",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Intro"
+    },
+    {
+      "seconds": 120,
+      "label": "Reason"
+    },
+    {
+      "seconds": 402,
+      "label": "Progress"
+    },
+    {
+      "seconds": 537,
+      "label": "The Case for Progress"
+    },
+    {
+      "seconds": 586,
+      "label": "Child Mortality"
+    },
+    {
+      "seconds": 660,
+      "label": "Maternal Mortality"
+    },
+    {
+      "seconds": 715,
+      "label": "Health"
+    },
+    {
+      "seconds": 856,
+      "label": "Prosperity"
+    },
+    {
+      "seconds": 944,
+      "label": "Global Inequality"
+    },
+    {
+      "seconds": 1058,
+      "label": "Poverty"
+    },
+    {
+      "seconds": 1195,
+      "label": "Democracy"
+    },
+    {
+      "seconds": 1294,
+      "label": "Child Labor"
+    },
+    {
+      "seconds": 1342,
+      "label": "Violent Crime"
+    },
+    {
+      "seconds": 1471,
+      "label": "Safety"
+    },
+    {
+      "seconds": 1587,
+      "label": "Knowledge"
+    },
+    {
+      "seconds": 1659,
+      "label": "Quality of Life"
+    },
+    {
+      "seconds": 1739,
+      "label": "Leisure Time"
+    },
+    {
+      "seconds": 1796,
+      "label": "Happiness"
+    },
+    {
+      "seconds": 1843,
+      "label": "Environment"
+    },
+    {
+      "seconds": 1961,
+      "label": "Sentiment Mapping"
+    },
+    {
+      "seconds": 2001,
+      "label": "Availability Heuristic"
+    },
+    {
+      "seconds": 2131,
+      "label": "Is it Good to Be Pessimistic"
+    },
+    {
+      "seconds": 2236,
+      "label": "Is Progress Inevitable"
+    },
+    {
+      "seconds": 2277,
+      "label": "Global Challenges"
+    },
+    {
+      "seconds": 2324,
+      "label": "Progress Graphs"
+    },
+    {
+      "seconds": 2405,
+      "label": "Does the Enlightenment go against human nature"
+    },
+    {
+      "seconds": 2441,
+      "label": "Secular liberal democracies"
+    },
+    {
+      "seconds": 2456,
+      "label": "Spiritual"
+    },
+    {
+      "seconds": 2481,
+      "label": "Questions"
+    },
+    {
+      "seconds": 2544,
+      "label": "Local Maximum"
+    },
+    {
+      "seconds": 2639,
+      "label": "Runaway AI"
+    },
+    {
+      "seconds": 2688,
+      "label": "Being Happy Being Informed"
+    },
+    {
+      "seconds": 2825,
+      "label": "What Causes the Enlightenment"
+    },
+    {
+      "seconds": 3009,
+      "label": "Artificial Intelligence"
+    },
+    {
+      "seconds": 3055,
+      "label": "Existential Threats"
+    },
+    {
+      "seconds": 3331,
+      "label": "De DS Law"
+    },
+    {
+      "seconds": 3407,
+      "label": "Happiness Factor"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=ATf-esIOLKw",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

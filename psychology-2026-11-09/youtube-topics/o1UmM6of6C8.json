@@ -1,0 +1,77 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "o1UmM6of6C8",
+  "title": "6. Human Behavioral Biology: Molecular Behavior Genetics 2 by Robert Sapolsky",
+  "durationSeconds": 4891,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Genomic instability review"
+    },
+    {
+      "seconds": 102,
+      "label": "McClintock and transposons"
+    },
+    {
+      "seconds": 336,
+      "label": "Viral origins and stress"
+    },
+    {
+      "seconds": 441,
+      "label": "Plant stress and adaptation"
+    },
+    {
+      "seconds": 538,
+      "label": "Pathogen immune evasion"
+    },
+    {
+      "seconds": 691,
+      "label": "Genomic mosaicism in the brain"
+    },
+    {
+      "seconds": 877,
+      "label": "Microchimerism and cellular exchange"
+    },
+    {
+      "seconds": 1081,
+      "label": "Punctuated equilibrium debate"
+    },
+    {
+      "seconds": 1452,
+      "label": "Gene duplication mechanisms"
+    },
+    {
+      "seconds": 1771,
+      "label": "Splicing and alternative regulation"
+    },
+    {
+      "seconds": 2166,
+      "label": "Gene networks and regulation"
+    },
+    {
+      "seconds": 2570,
+      "label": "Amplifying mutations"
+    },
+    {
+      "seconds": 2701,
+      "label": "Social behavior and evolution"
+    },
+    {
+      "seconds": 2997,
+      "label": "Macroevolution through regulation"
+    },
+    {
+      "seconds": 3118,
+      "label": "If-then clauses and domestication"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=o1UmM6of6C8",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

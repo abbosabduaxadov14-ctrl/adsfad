@@ -1,0 +1,57 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "2QOle949vRM",
+  "title": "15. Human Behavioral Biology: Advanced Topics in Neuroendocrinology 1 by Robert Sapolsky",
+  "durationSeconds": 2040,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Beyond textbook dogma"
+    },
+    {
+      "seconds": 68,
+      "label": "Dale's law and co-transmission"
+    },
+    {
+      "seconds": 242,
+      "label": "Multiplicity in the endocrine system"
+    },
+    {
+      "seconds": 489,
+      "label": "Spatial distribution of signaling"
+    },
+    {
+      "seconds": 728,
+      "label": "Local control in the pituitary"
+    },
+    {
+      "seconds": 1075,
+      "label": "Negative feedback mechanisms"
+    },
+    {
+      "seconds": 1304,
+      "label": "Retrograde neurotransmitters"
+    },
+    {
+      "seconds": 1638,
+      "label": "Hormonal feedback dynamics"
+    },
+    {
+      "seconds": 1845,
+      "label": "Theoretical modeling of feedback"
+    },
+    {
+      "seconds": 1961,
+      "label": "Modulatory signaling roles"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=2QOle949vRM",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

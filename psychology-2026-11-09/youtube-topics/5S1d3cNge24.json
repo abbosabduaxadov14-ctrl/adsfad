@@ -1,0 +1,54 @@
+{
+  "id": "pinker-talks",
+  "video": "5S1d3cNge24",
+  "title": "Steven Pinker - The Stuff of Thought: Language as a window into human nature",
+  "durationSeconds": 3799,
+  "publisher": "Royal Society of Arts",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Language and human nature"
+    },
+    {
+      "seconds": 124,
+      "label": "Language as a window to thought"
+    },
+    {
+      "seconds": 779,
+      "label": "The psychology of swearing"
+    },
+    {
+      "seconds": 1976,
+      "label": "Indirect speech and relationships"
+    },
+    {
+      "seconds": 3052,
+      "label": "Martian perspective on humans"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    },
+    {
+      "language": "fr-FR",
+      "kind": "asr"
+    },
+    {
+      "language": "de-DE",
+      "kind": "asr"
+    },
+    {
+      "language": "hi",
+      "kind": "asr"
+    },
+    {
+      "language": "it",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=5S1d3cNge24",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "190aofoVY4g",
+  "title": "13. Human Behavioral Biology: Limbic System 3 by Robert Sapolsky",
+  "durationSeconds": 5193,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Limbic system and cortex"
+    },
+    {
+      "seconds": 80,
+      "label": "Amygdala and threat perception"
+    },
+    {
+      "seconds": 425,
+      "label": "Social anxiety and PTSD"
+    },
+    {
+      "seconds": 579,
+      "label": "Predictors of trauma"
+    },
+    {
+      "seconds": 952,
+      "label": "Neural pathways of fear"
+    },
+    {
+      "seconds": 1253,
+      "label": "Fear extinction and memory"
+    },
+    {
+      "seconds": 1515,
+      "label": "Amygdala projections"
+    },
+    {
+      "seconds": 1800,
+      "label": "Case study of SM"
+    },
+    {
+      "seconds": 2170,
+      "label": "The insular cortex"
+    },
+    {
+      "seconds": 2870,
+      "label": "Prefrontal cortex functions"
+    },
+    {
+      "seconds": 3575,
+      "label": "PFC, stress, and behavior"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=190aofoVY4g",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

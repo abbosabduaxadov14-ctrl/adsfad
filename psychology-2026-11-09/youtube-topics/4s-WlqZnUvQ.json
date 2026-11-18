@@ -1,0 +1,69 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "4s-WlqZnUvQ",
+  "title": "17. Human Behavioral Biology: Emergence 1 by Robert Sapolsky",
+  "durationSeconds": 3086,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to a new topic"
+    },
+    {
+      "seconds": 39,
+      "label": "The dark ages and lost knowledge"
+    },
+    {
+      "seconds": 238,
+      "label": "Rebirth of knowledge"
+    },
+    {
+      "seconds": 438,
+      "label": "The rise of reductionism"
+    },
+    {
+      "seconds": 639,
+      "label": "Applying reductionism"
+    },
+    {
+      "seconds": 825,
+      "label": "Limitations of reductionism"
+    },
+    {
+      "seconds": 1080,
+      "label": "The role of chaos and variability"
+    },
+    {
+      "seconds": 1332,
+      "label": "Variability in biology"
+    },
+    {
+      "seconds": 1740,
+      "label": "Introduction to emergence"
+    },
+    {
+      "seconds": 2171,
+      "label": "Examples of emergent design"
+    },
+    {
+      "seconds": 2368,
+      "label": "Collective decision making"
+    },
+    {
+      "seconds": 2655,
+      "label": "Swarm intelligence"
+    },
+    {
+      "seconds": 3076,
+      "label": "Conclusion"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=4s-WlqZnUvQ",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

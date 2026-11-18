@@ -1,0 +1,65 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "dQRr2Xgas4o",
+  "title": "21. Human Behavioral Biology: Sexuality 3 by Robert Sapolsky",
+  "durationSeconds": 5246,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Prenatal influences"
+    },
+    {
+      "seconds": 177,
+      "label": "Sexual brain differentiation"
+    },
+    {
+      "seconds": 381,
+      "label": "Challenging the binary model"
+    },
+    {
+      "seconds": 631,
+      "label": "Hormones, genitals, and ambiguity"
+    },
+    {
+      "seconds": 1043,
+      "label": "Secondary characteristics and brain"
+    },
+    {
+      "seconds": 1470,
+      "label": "Prenatal orientation influences"
+    },
+    {
+      "seconds": 1878,
+      "label": "Women's orientation and prenatal factors"
+    },
+    {
+      "seconds": 2133,
+      "label": "Genetics of sexual behavior"
+    },
+    {
+      "seconds": 2324,
+      "label": "Genetics of sexual orientation"
+    },
+    {
+      "seconds": 2740,
+      "label": "Culture, ecosystem, and sex"
+    },
+    {
+      "seconds": 3156,
+      "label": "Evolutionary basis of sexual behavior"
+    },
+    {
+      "seconds": 3341,
+      "label": "Competition, violence, and choice"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=dQRr2Xgas4o",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

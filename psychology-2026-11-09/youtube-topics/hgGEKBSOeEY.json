@@ -1,0 +1,82 @@
+{
+  "id": "pinker-talks",
+  "video": "hgGEKBSOeEY",
+  "title": "GEM 2012: Steven Pinker on Emotion, Reason and Moral Progress",
+  "durationSeconds": 1282,
+  "publisher": "Harvard Center for International Development",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 20,
+      "label": "The Humanitarian Revolution"
+    },
+    {
+      "seconds": 170,
+      "label": "The Long Piece"
+    },
+    {
+      "seconds": 233,
+      "label": "Rights Revolutions"
+    },
+    {
+      "seconds": 374,
+      "label": "Better Angels"
+    },
+    {
+      "seconds": 403,
+      "label": "Empathy"
+    },
+    {
+      "seconds": 546,
+      "label": "Morality"
+    },
+    {
+      "seconds": 611,
+      "label": "Selfhelp justice"
+    },
+    {
+      "seconds": 731,
+      "label": "Trolley problem"
+    },
+    {
+      "seconds": 841,
+      "label": "Rational argument"
+    },
+    {
+      "seconds": 885,
+      "label": "Moral briefs"
+    },
+    {
+      "seconds": 980,
+      "label": "Capital punishment"
+    },
+    {
+      "seconds": 1035,
+      "label": "How capital punishment became unpopular"
+    },
+    {
+      "seconds": 1061,
+      "label": "Norm cascade"
+    },
+    {
+      "seconds": 1152,
+      "label": "Racial segregation"
+    },
+    {
+      "seconds": 1228,
+      "label": "Summary"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=hgGEKBSOeEY",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

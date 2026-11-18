@@ -1,0 +1,17 @@
+{
+  "id": "pinker-talks",
+  "video": "fmXAd186ud0",
+  "title": "Steven Pinker - Origins Symposium - The Cognitive Niche",
+  "durationSeconds": 3359,
+  "publisher": "TheScienceFoundation",
+  "chapters": [],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=fmXAd186ud0",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "x18sxXomh0Q",
+  "title": "7. Human Behavioral Biology: Behavioral Genetics 1 by Robert Sapolsky",
+  "durationSeconds": 5127,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Evolutionary change basics"
+    },
+    {
+      "seconds": 94,
+      "label": "Rapid evolutionary examples"
+    },
+    {
+      "seconds": 355,
+      "label": "Human rapid evolution"
+    },
+    {
+      "seconds": 692,
+      "label": "Evidence for gradualism"
+    },
+    {
+      "seconds": 949,
+      "label": "Behavioral genetics intro"
+    },
+    {
+      "seconds": 1224,
+      "label": "Twin and adoption studies"
+    },
+    {
+      "seconds": 1587,
+      "label": "Schizophrenia research"
+    },
+    {
+      "seconds": 2012,
+      "label": "Twin adoption studies"
+    },
+    {
+      "seconds": 2404,
+      "label": "Indirect genetic effects"
+    },
+    {
+      "seconds": 2939,
+      "label": "Criticisms of study models"
+    },
+    {
+      "seconds": 3517,
+      "label": "Prenatal environment impacts"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=x18sxXomh0Q",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

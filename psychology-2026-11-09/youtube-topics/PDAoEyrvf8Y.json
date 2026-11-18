@@ -1,0 +1,50 @@
+{
+  "id": "pinker-talks",
+  "video": "PDAoEyrvf8Y",
+  "title": "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress | Steven Pinker",
+  "durationSeconds": 4169,
+  "publisher": "The Cato Institute",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction and welcome"
+    },
+    {
+      "seconds": 488,
+      "label": "The case for enlightenment"
+    },
+    {
+      "seconds": 608,
+      "label": "Four pillars of progress"
+    },
+    {
+      "seconds": 868,
+      "label": "Empirical evidence of progress"
+    },
+    {
+      "seconds": 1070,
+      "label": "Global data trends"
+    },
+    {
+      "seconds": 2785,
+      "label": "Why people deny progress"
+    },
+    {
+      "seconds": 3024,
+      "label": "Future challenges and conclusion"
+    },
+    {
+      "seconds": 3347,
+      "label": "Q&A session"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=PDAoEyrvf8Y",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

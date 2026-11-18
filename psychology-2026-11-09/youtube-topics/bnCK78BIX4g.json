@@ -1,0 +1,53 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "bnCK78BIX4g",
+  "title": "12. Human Behavioral Biology: Limbic System 2 by Robert Sapolsky",
+  "durationSeconds": 5338,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to limbic system"
+    },
+    {
+      "seconds": 268,
+      "label": "Brain anatomy and circuits"
+    },
+    {
+      "seconds": 760,
+      "label": "Limbic pathways and connectivity"
+    },
+    {
+      "seconds": 1344,
+      "label": "Research methodologies"
+    },
+    {
+      "seconds": 1944,
+      "label": "Ethological considerations"
+    },
+    {
+      "seconds": 2394,
+      "label": "Amygdala functions"
+    },
+    {
+      "seconds": 3065,
+      "label": "Hippocampus and memory"
+    },
+    {
+      "seconds": 3427,
+      "label": "Dopamine and reward"
+    },
+    {
+      "seconds": 4800,
+      "label": "Hypothalamus and feedback"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=bnCK78BIX4g",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

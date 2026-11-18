@@ -1,0 +1,33 @@
+{
+  "id": "pinker-talks",
+  "video": "5YYr8311yY0",
+  "title": "A Battle of Wills: Daniel Dennett, Joshua Greene, and Steven Pinker- Harvard MBB April 27 2012",
+  "durationSeconds": 6396,
+  "publisher": "mehranshargh",
+  "chapters": [],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    },
+    {
+      "language": "ja",
+      "kind": "asr"
+    },
+    {
+      "language": "ko",
+      "kind": "asr"
+    },
+    {
+      "language": "ml",
+      "kind": "asr"
+    },
+    {
+      "language": "es-US",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=5YYr8311yY0",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

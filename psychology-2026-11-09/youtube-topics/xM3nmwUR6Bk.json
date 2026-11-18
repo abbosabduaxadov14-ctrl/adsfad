@@ -1,0 +1,53 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "xM3nmwUR6Bk",
+  "title": "11. Human Behavioral Biology: Limbic System 1 by Robert Sapolsky",
+  "durationSeconds": 2743,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to the nervous"
+    },
+    {
+      "seconds": 74,
+      "label": "Where are emotions?"
+    },
+    {
+      "seconds": 344,
+      "label": "The triune brain model"
+    },
+    {
+      "seconds": 622,
+      "label": "Top-down communication"
+    },
+    {
+      "seconds": 846,
+      "label": "Bottom-up communication"
+    },
+    {
+      "seconds": 1085,
+      "label": "Physiological influence on brain"
+    },
+    {
+      "seconds": 1540,
+      "label": "Limbic-cortical interaction"
+    },
+    {
+      "seconds": 1630,
+      "label": "Neuroanatomy and function"
+    },
+    {
+      "seconds": 2124,
+      "label": "Evolutionary tinkering"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=xM3nmwUR6Bk",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

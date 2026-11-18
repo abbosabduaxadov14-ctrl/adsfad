@@ -1,0 +1,173 @@
+{
+  "id": "pinker-talks",
+  "video": "hBpetDxIEMU",
+  "title": "The Stuff of Thought | Steven Pinker | Talks at Google",
+  "durationSeconds": 4504,
+  "publisher": "Talks at Google",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 96,
+      "label": "Anthropology"
+    },
+    {
+      "seconds": 167,
+      "label": "Language as a window into thought"
+    },
+    {
+      "seconds": 227,
+      "label": "Space"
+    },
+    {
+      "seconds": 328,
+      "label": "Prepositions"
+    },
+    {
+      "seconds": 444,
+      "label": "Language of Space"
+    },
+    {
+      "seconds": 547,
+      "label": "Language of Substance"
+    },
+    {
+      "seconds": 731,
+      "label": "Specious Present"
+    },
+    {
+      "seconds": 946,
+      "label": "Language of Time"
+    },
+    {
+      "seconds": 1232,
+      "label": "Language"
+    },
+    {
+      "seconds": 1608,
+      "label": "The contents of swearing"
+    },
+    {
+      "seconds": 1692,
+      "label": "Taboo words"
+    },
+    {
+      "seconds": 1988,
+      "label": "Disagreeable"
+    },
+    {
+      "seconds": 2029,
+      "label": "Abuse of swearing"
+    },
+    {
+      "seconds": 2045,
+      "label": "Swearing curses"
+    },
+    {
+      "seconds": 2185,
+      "label": "Embarrassing and idiomatic swearing"
+    },
+    {
+      "seconds": 2329,
+      "label": "Response cry theory"
+    },
+    {
+      "seconds": 2422,
+      "label": "Intimidation"
+    },
+    {
+      "seconds": 2442,
+      "label": "Veiled bribe"
+    },
+    {
+      "seconds": 2575,
+      "label": "The solution"
+    },
+    {
+      "seconds": 2596,
+      "label": "The identification problem"
+    },
+    {
+      "seconds": 2611,
+      "label": "bribing a police officer"
+    },
+    {
+      "seconds": 2907,
+      "label": "the three types of human relationships"
+    },
+    {
+      "seconds": 3185,
+      "label": "the problem of metaknowledge"
+    },
+    {
+      "seconds": 3264,
+      "label": "mutual or common knowledge"
+    },
+    {
+      "seconds": 3292,
+      "label": "everyday examples"
+    },
+    {
+      "seconds": 3376,
+      "label": "mutual knowledge"
+    },
+    {
+      "seconds": 3505,
+      "label": "human cognition"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "nl-NL",
+      "kind": "asr"
+    },
+    {
+      "language": "en"
+    },
+    {
+      "language": "en",
+      "kind": "asr"
+    },
+    {
+      "language": "iw",
+      "kind": "asr"
+    },
+    {
+      "language": "ko",
+      "kind": "asr"
+    },
+    {
+      "language": "ml",
+      "kind": "asr"
+    },
+    {
+      "language": "pl",
+      "kind": "asr"
+    },
+    {
+      "language": "pa",
+      "kind": "asr"
+    },
+    {
+      "language": "ru",
+      "kind": "asr"
+    },
+    {
+      "language": "ta",
+      "kind": "asr"
+    },
+    {
+      "language": "te",
+      "kind": "asr"
+    },
+    {
+      "language": "uk",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=hBpetDxIEMU",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

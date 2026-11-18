@@ -1,0 +1,105 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "q5UiYByBf3Q",
+  "title": "31. Religious Belief by Robert Sapolsky",
+  "durationSeconds": 5134,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to the topic"
+    },
+    {
+      "seconds": 155,
+      "label": "Religious behavior diversity"
+    },
+    {
+      "seconds": 223,
+      "label": "Schizophrenia and evolution"
+    },
+    {
+      "seconds": 431,
+      "label": "Schizotypal personalities"
+    },
+    {
+      "seconds": 631,
+      "label": "Shamans in traditional society"
+    },
+    {
+      "seconds": 882,
+      "label": "Controlled madness in culture"
+    },
+    {
+      "seconds": 1057,
+      "label": "Metamagical thinking in west"
+    },
+    {
+      "seconds": 1334,
+      "label": "The dangers of extreme cults"
+    },
+    {
+      "seconds": 1540,
+      "label": "OCD and religious ritualism"
+    },
+    {
+      "seconds": 1723,
+      "label": "OCD compulsions and hygiene"
+    },
+    {
+      "seconds": 1959,
+      "label": "OCD as an anxiety disorder"
+    },
+    {
+      "seconds": 2111,
+      "label": "Rituals across world religions"
+    },
+    {
+      "seconds": 2549,
+      "label": "Religion as OCD sanctuary"
+    },
+    {
+      "seconds": 2731,
+      "label": "Professionalization of piety"
+    },
+    {
+      "seconds": 2853,
+      "label": "Martin Luther's scrupulosity"
+    },
+    {
+      "seconds": 3146,
+      "label": "Ritual and self-mutilation"
+    },
+    {
+      "seconds": 3354,
+      "label": "Holy anorexia phenomenon"
+    },
+    {
+      "seconds": 3547,
+      "label": "Cognition, emotion, and faith"
+    },
+    {
+      "seconds": 3757,
+      "label": "The need for agency and control"
+    },
+    {
+      "seconds": 4109,
+      "label": "Temporal lobe epilepsy"
+    },
+    {
+      "seconds": 4262,
+      "label": "Temporal lobe personality"
+    },
+    {
+      "seconds": 4466,
+      "label": "Evolution of religiosity"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=q5UiYByBf3Q",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

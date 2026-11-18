@@ -1,0 +1,57 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "T_wOUIxfTdY",
+  "title": "14. Human Behavioral Biology: Limbic System 4 by Robert Sapolsky",
+  "durationSeconds": 2591,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Frontal cortex social role"
+    },
+    {
+      "seconds": 98,
+      "label": "Will, grace, and cheating"
+    },
+    {
+      "seconds": 399,
+      "label": "Inhibiting the amygdala"
+    },
+    {
+      "seconds": 578,
+      "label": "Managing social pain"
+    },
+    {
+      "seconds": 790,
+      "label": "Bottom-up limbic influence"
+    },
+    {
+      "seconds": 1121,
+      "label": "Cortical decision-making"
+    },
+    {
+      "seconds": 1536,
+      "label": "Somatic markers and choice"
+    },
+    {
+      "seconds": 1829,
+      "label": "Dopamine and anticipation"
+    },
+    {
+      "seconds": 2035,
+      "label": "Neurobiology of habituation"
+    },
+    {
+      "seconds": 2278,
+      "label": "Social perception structures"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=T_wOUIxfTdY",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

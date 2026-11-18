@@ -1,0 +1,65 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "gtlPr6nFE3U",
+  "title": "23. Violence and its Antidotes 1 by Robert Sapolsky",
+  "durationSeconds": 3403,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to violence"
+    },
+    {
+      "seconds": 314,
+      "label": "Aggression in animals"
+    },
+    {
+      "seconds": 536,
+      "label": "Chimpanzee group violence"
+    },
+    {
+      "seconds": 771,
+      "label": "Reconciliation and empathy"
+    },
+    {
+      "seconds": 1038,
+      "label": "Justice and hierarchies"
+    },
+    {
+      "seconds": 1373,
+      "label": "The role of hierarchies"
+    },
+    {
+      "seconds": 1618,
+      "label": "Play, practice, and conflict"
+    },
+    {
+      "seconds": 1800,
+      "label": "Human-specific aggression"
+    },
+    {
+      "seconds": 2004,
+      "label": "Complex human behaviors"
+    },
+    {
+      "seconds": 2334,
+      "label": "Modern impersonal violence"
+    },
+    {
+      "seconds": 2752,
+      "label": "Reconciliation vs forgiveness"
+    },
+    {
+      "seconds": 3312,
+      "label": "Neurobiology of aggression"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=gtlPr6nFE3U",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

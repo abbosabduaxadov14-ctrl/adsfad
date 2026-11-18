@@ -1,0 +1,69 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "011ANS4L-Fk",
+  "title": "8. Human Behavioral Biology: Behavioral Genetics 2 by Robert Sapolsky",
+  "durationSeconds": 4980,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to the topic"
+    },
+    {
+      "seconds": 147,
+      "label": "Inheritance vs heritability"
+    },
+    {
+      "seconds": 525,
+      "label": "Evaluating heritability"
+    },
+    {
+      "seconds": 826,
+      "label": "Environment and variability"
+    },
+    {
+      "seconds": 1201,
+      "label": "Controlled studies and nuance"
+    },
+    {
+      "seconds": 1619,
+      "label": "Humans in diverse ecosystems"
+    },
+    {
+      "seconds": 2045,
+      "label": "Gene-environment interactions"
+    },
+    {
+      "seconds": 2355,
+      "label": "Complex GxE examples"
+    },
+    {
+      "seconds": 2603,
+      "label": "Multi-level interactions"
+    },
+    {
+      "seconds": 3181,
+      "label": "Freedom from genetic control"
+    },
+    {
+      "seconds": 3505,
+      "label": "Prefrontal cortex development"
+    },
+    {
+      "seconds": 3719,
+      "label": "The role of chance"
+    },
+    {
+      "seconds": 3931,
+      "label": "Modern behavioral genetics"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=011ANS4L-Fk",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

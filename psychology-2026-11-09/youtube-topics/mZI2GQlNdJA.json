@@ -1,0 +1,49 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "mZI2GQlNdJA",
+  "title": "1. Human Behavioral Biology: Introduction by Robert Sapolsky",
+  "durationSeconds": 3183,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 156,
+      "label": "Scientific findings"
+    },
+    {
+      "seconds": 561,
+      "label": "Two cornerstones"
+    },
+    {
+      "seconds": 843,
+      "label": "Categorical thinking"
+    },
+    {
+      "seconds": 1200,
+      "label": "Categorization downsides"
+    },
+    {
+      "seconds": 1568,
+      "label": "Multi-temporal approach"
+    },
+    {
+      "seconds": 2321,
+      "label": "Pathological examples"
+    },
+    {
+      "seconds": 2726,
+      "label": "Course roadmap and goals"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=mZI2GQlNdJA",
+  "retrieved": "2026-11-09",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

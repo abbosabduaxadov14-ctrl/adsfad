@@ -1,0 +1,50 @@
+{
+  "id": "pinker-talks",
+  "video": "x0eQYLao4i0",
+  "title": "The Sense of Style: The Thinking Person’s Guide  to Writing in the 21st Century",
+  "durationSeconds": 7781,
+  "publisher": "Skeptic",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Musical intro"
+    },
+    {
+      "seconds": 139,
+      "label": "Venue logistics"
+    },
+    {
+      "seconds": 184,
+      "label": "Introductory remarks"
+    },
+    {
+      "seconds": 451,
+      "label": "Geology tour presentation"
+    },
+    {
+      "seconds": 885,
+      "label": "Introduction of Dr. Pinker"
+    },
+    {
+      "seconds": 1008,
+      "label": "Lecture on writing style"
+    },
+    {
+      "seconds": 4140,
+      "label": "In conversation"
+    },
+    {
+      "seconds": 5878,
+      "label": "Audience Q&A"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=x0eQYLao4i0",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

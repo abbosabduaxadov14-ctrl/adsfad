@@ -1,0 +1,57 @@
+{
+  "id": "pinker-talks",
+  "video": "3ZKTmsgqi0U",
+  "title": "The Sense of Style | Steven Pinker | Talks at Google",
+  "durationSeconds": 4170,
+  "publisher": "Talks at Google",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to Steven Pinker"
+    },
+    {
+      "seconds": 87,
+      "label": "The problem with bad writing"
+    },
+    {
+      "seconds": 344,
+      "label": "Critique of traditional advice"
+    },
+    {
+      "seconds": 551,
+      "label": "The model of classic style"
+    },
+    {
+      "seconds": 832,
+      "label": "Pitfalls in professional prose"
+    },
+    {
+      "seconds": 1451,
+      "label": "Syntax and the passive voice"
+    },
+    {
+      "seconds": 1934,
+      "label": "Overcoming the curse of knowledge"
+    },
+    {
+      "seconds": 2429,
+      "label": "Rules and conventions of usage"
+    },
+    {
+      "seconds": 3267,
+      "label": "Q&A and concluding remarks"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    },
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=3ZKTmsgqi0U",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

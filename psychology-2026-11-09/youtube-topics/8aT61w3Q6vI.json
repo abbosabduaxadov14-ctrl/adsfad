@@ -1,0 +1,62 @@
+{
+  "id": "pinker-talks",
+  "video": "8aT61w3Q6vI",
+  "title": "Stephen Fry & Steven Pinker on the Enlightenment Today",
+  "durationSeconds": 4728,
+  "publisher": "How To Academy",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to Pinker"
+    },
+    {
+      "seconds": 139,
+      "label": "Crossover to Public Discourse"
+    },
+    {
+      "seconds": 287,
+      "label": "The Human Mind and Evolution"
+    },
+    {
+      "seconds": 305,
+      "label": "Nature, Nurture, and Politics"
+    },
+    {
+      "seconds": 1003,
+      "label": "The Enlightenment and Progress"
+    },
+    {
+      "seconds": 3415,
+      "label": "Reason, Logic, and Conclusion"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    },
+    {
+      "language": "fr-FR",
+      "kind": "asr"
+    },
+    {
+      "language": "hi",
+      "kind": "asr"
+    },
+    {
+      "language": "id",
+      "kind": "asr"
+    },
+    {
+      "language": "it",
+      "kind": "asr"
+    },
+    {
+      "language": "es-US",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=8aT61w3Q6vI",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

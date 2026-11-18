@@ -1,0 +1,61 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "wF2sPJ3wDJQ",
+  "title": "9. Human Behavioral Biology: Ethology 1 by Robert Sapolsky",
+  "durationSeconds": 4761,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to ethology"
+    },
+    {
+      "seconds": 105,
+      "label": "Behaviorism vs. ethology"
+    },
+    {
+      "seconds": 440,
+      "label": "Principles of ethology"
+    },
+    {
+      "seconds": 743,
+      "label": "Tinbergen's four questions"
+    },
+    {
+      "seconds": 850,
+      "label": "Fixed action patterns"
+    },
+    {
+      "seconds": 1371,
+      "label": "Primate FAPs and learning"
+    },
+    {
+      "seconds": 1822,
+      "label": "Adaptive value of behavior"
+    },
+    {
+      "seconds": 2144,
+      "label": "Releasing stimuli"
+    },
+    {
+      "seconds": 3115,
+      "label": "The power of 'cute'"
+    },
+    {
+      "seconds": 3395,
+      "label": "Neuroethology"
+    },
+    {
+      "seconds": 3548,
+      "label": "Learning and cognition"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=wF2sPJ3wDJQ",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

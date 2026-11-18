@@ -1,0 +1,49 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "tAmimepUnDc",
+  "title": "16. Human Behavioral Biology: Advanced Topics in Neuroendocrinology 2 by Robert Sapolsky OLD",
+  "durationSeconds": 1968,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Beyond simplistic signaling"
+    },
+    {
+      "seconds": 142,
+      "label": "Receptor autoregulation"
+    },
+    {
+      "seconds": 446,
+      "label": "Receptor complexity"
+    },
+    {
+      "seconds": 616,
+      "label": "Multi-ligand binding"
+    },
+    {
+      "seconds": 1021,
+      "label": "Hormone-context interactions"
+    },
+    {
+      "seconds": 1339,
+      "label": "Conditional modulation"
+    },
+    {
+      "seconds": 1639,
+      "label": "Modulation as a recurring theme"
+    },
+    {
+      "seconds": 1849,
+      "label": "Individual differences"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=tAmimepUnDc",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

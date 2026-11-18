@@ -1,0 +1,73 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "62JMAX5Vegk",
+  "title": "22. Human Behavioral Biology: Sexuality 4 by Robert Sapolsky",
+  "durationSeconds": 1732,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to mate choice"
+    },
+    {
+      "seconds": 61,
+      "label": "Attraction and moral judgment"
+    },
+    {
+      "seconds": 92,
+      "label": "Universal markers of health"
+    },
+    {
+      "seconds": 144,
+      "label": "The handicap principle"
+    },
+    {
+      "seconds": 284,
+      "label": "Cheating and detection"
+    },
+    {
+      "seconds": 412,
+      "label": "Signals of fertility"
+    },
+    {
+      "seconds": 454,
+      "label": "Testosterone and attraction"
+    },
+    {
+      "seconds": 542,
+      "label": "Evolution of physical traits"
+    },
+    {
+      "seconds": 603,
+      "label": "Parenting and attraction"
+    },
+    {
+      "seconds": 803,
+      "label": "Bandwagon effects"
+    },
+    {
+      "seconds": 869,
+      "label": "Self-fulfilling prophecies"
+    },
+    {
+      "seconds": 1021,
+      "label": "Homogamy"
+    },
+    {
+      "seconds": 1145,
+      "label": "Culture and attraction"
+    },
+    {
+      "seconds": 1562,
+      "label": "Commonalities in mate choice"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=62JMAX5Vegk",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

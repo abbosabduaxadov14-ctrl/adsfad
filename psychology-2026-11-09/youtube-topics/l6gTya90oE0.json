@@ -1,0 +1,49 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "l6gTya90oE0",
+  "title": "5. Human Behavioral Biology: Molecular Behavior Genetics 1 by Robert Sapolsky",
+  "durationSeconds": 4975,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Criticisms of evolutionary views"
+    },
+    {
+      "seconds": 244,
+      "label": "Classical molecular genetics"
+    },
+    {
+      "seconds": 571,
+      "label": "Mutations and behavioral impact"
+    },
+    {
+      "seconds": 1314,
+      "label": "Evolutionary pedigrees"
+    },
+    {
+      "seconds": 1494,
+      "label": "Selection and genetic code"
+    },
+    {
+      "seconds": 2165,
+      "label": "Environmental gene regulation"
+    },
+    {
+      "seconds": 2715,
+      "label": "Regulation and specificity"
+    },
+    {
+      "seconds": 3463,
+      "label": "Epigenetics and inheritance"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=l6gTya90oE0",
+  "retrieved": "2026-11-09",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

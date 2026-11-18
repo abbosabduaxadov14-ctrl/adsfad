@@ -1,0 +1,50 @@
+{
+  "id": "pinker-talks",
+  "video": "J4028ZG6z5I",
+  "title": "The Better Angels of Our Nature | The Voltaire Lecture 2013, with Prof. Steven Pinker",
+  "durationSeconds": 2724,
+  "publisher": "Humanists UK",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 230,
+      "label": "The pacification process"
+    },
+    {
+      "seconds": 661,
+      "label": "The civilizing process"
+    },
+    {
+      "seconds": 828,
+      "label": "The humanitarian revolution"
+    },
+    {
+      "seconds": 1208,
+      "label": "The long peace"
+    },
+    {
+      "seconds": 1476,
+      "label": "The new peace"
+    },
+    {
+      "seconds": 1744,
+      "label": "The rights revolutions"
+    },
+    {
+      "seconds": 1933,
+      "label": "Conclusion"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=J4028ZG6z5I",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

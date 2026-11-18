@@ -1,0 +1,81 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "cQLvY42kjVU",
+  "title": "20. Human Behavioral Biology: Sexuality 2 by Robert Sapolsky",
+  "durationSeconds": 4638,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to hormones"
+    },
+    {
+      "seconds": 131,
+      "label": "Menstrual cycle and behavior"
+    },
+    {
+      "seconds": 269,
+      "label": "Subtle ovulatory effects"
+    },
+    {
+      "seconds": 501,
+      "label": "Hormones and proceptivity"
+    },
+    {
+      "seconds": 636,
+      "label": "Concealed ovulation in humans"
+    },
+    {
+      "seconds": 953,
+      "label": "Testosterone and male sexuality"
+    },
+    {
+      "seconds": 1212,
+      "label": "Testosterone range effects"
+    },
+    {
+      "seconds": 1532,
+      "label": "Pair bonding and hormones"
+    },
+    {
+      "seconds": 1820,
+      "label": "Sexually dimorphic brains"
+    },
+    {
+      "seconds": 2135,
+      "label": "The mosaic brain hypothesis"
+    },
+    {
+      "seconds": 2260,
+      "label": "Sexual orientation research"
+    },
+    {
+      "seconds": 2517,
+      "label": "LeVay's landmark study"
+    },
+    {
+      "seconds": 2882,
+      "label": "Orientation correlations"
+    },
+    {
+      "seconds": 3312,
+      "label": "Lesbian brain research"
+    },
+    {
+      "seconds": 3552,
+      "label": "Sexual identity and biology"
+    },
+    {
+      "seconds": 3832,
+      "label": "Adolescence and upbringing"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=cQLvY42kjVU",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

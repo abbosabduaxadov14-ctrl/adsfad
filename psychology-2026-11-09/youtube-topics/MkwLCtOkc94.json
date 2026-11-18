@@ -1,0 +1,77 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "MkwLCtOkc94",
+  "title": "10. Human Behavioral Biology: Ethology 2 by Robert Sapolsky",
+  "durationSeconds": 2520,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction to ethology"
+    },
+    {
+      "seconds": 85,
+      "label": "Learning in ethology"
+    },
+    {
+      "seconds": 175,
+      "label": "Prepared learning"
+    },
+    {
+      "seconds": 289,
+      "label": "Culture in other species"
+    },
+    {
+      "seconds": 471,
+      "label": "Transmission and conformity"
+    },
+    {
+      "seconds": 722,
+      "label": "Baboon social culture"
+    },
+    {
+      "seconds": 860,
+      "label": "Cognitive ethology"
+    },
+    {
+      "seconds": 1075,
+      "label": "Self-awareness and mind"
+    },
+    {
+      "seconds": 1485,
+      "label": "Intentionality and belief"
+    },
+    {
+      "seconds": 1569,
+      "label": "Animal cognitive abilities"
+    },
+    {
+      "seconds": 1873,
+      "label": "Numerosity and quantity"
+    },
+    {
+      "seconds": 1980,
+      "label": "Social transitivity"
+    },
+    {
+      "seconds": 2110,
+      "label": "Planning for the future"
+    },
+    {
+      "seconds": 2186,
+      "label": "Implicit biases in humans"
+    },
+    {
+      "seconds": 2361,
+      "label": "Implicit bias in primates"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=MkwLCtOkc94",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

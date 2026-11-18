@@ -1,0 +1,78 @@
+{
+  "id": "pinker-talks",
+  "video": "o5X2-i_poNU",
+  "title": "Prof. Steven Pinker - The Better Angels of Our Nature: A History of Violence and Humanity",
+  "durationSeconds": 4562,
+  "publisher": "The University of Edinburgh",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 222,
+      "label": "Decline of violence overview"
+    },
+    {
+      "seconds": 284,
+      "label": "The pacification process"
+    },
+    {
+      "seconds": 646,
+      "label": "The civilizing process"
+    },
+    {
+      "seconds": 793,
+      "label": "The humanitarian revolution"
+    },
+    {
+      "seconds": 1046,
+      "label": "Causes of humanitarianism"
+    },
+    {
+      "seconds": 1224,
+      "label": "The long peace"
+    },
+    {
+      "seconds": 1667,
+      "label": "The age of genocide"
+    },
+    {
+      "seconds": 1808,
+      "label": "The new peace"
+    },
+    {
+      "seconds": 2048,
+      "label": "The rights revolutions"
+    },
+    {
+      "seconds": 2327,
+      "label": "Psychology of violence"
+    },
+    {
+      "seconds": 2612,
+      "label": "Forces of peace"
+    },
+    {
+      "seconds": 2844,
+      "label": "Expanding empathy"
+    },
+    {
+      "seconds": 3151,
+      "label": "Conclusion"
+    },
+    {
+      "seconds": 3339,
+      "label": "Q&A and closing"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en",
+      "kind": "asr"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=o5X2-i_poNU",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

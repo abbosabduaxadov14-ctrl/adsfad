@@ -1,0 +1,49 @@
+{
+  "id": "sapolsky-behavior",
+  "video": "c6cyUQsqk7Q",
+  "title": "30. Schizophrenia by Robert Sapolsky",
+  "durationSeconds": 4615,
+  "publisher": "Stanford School of Humanities and Sciences",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Understanding schizophrenia"
+    },
+    {
+      "seconds": 164,
+      "label": "Behavioral symptoms"
+    },
+    {
+      "seconds": 442,
+      "label": "Social and personal impacts"
+    },
+    {
+      "seconds": 786,
+      "label": "Cross-cultural perspectives"
+    },
+    {
+      "seconds": 1494,
+      "label": "Neurochemistry and metabolism"
+    },
+    {
+      "seconds": 2254,
+      "label": "Brain structure and atrophy"
+    },
+    {
+      "seconds": 2906,
+      "label": "Environmental and developmental factors"
+    },
+    {
+      "seconds": 3678,
+      "label": "Genetics and evolutionary outlook"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=c6cyUQsqk7Q",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}

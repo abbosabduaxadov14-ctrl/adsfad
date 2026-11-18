@@ -1,0 +1,99 @@
+{
+  "id": "pinker-talks",
+  "video": "Q-B_ONJIEcE",
+  "title": "Steven Pinker: Linguistics as a Window to Understanding the Brain | Big Think",
+  "durationSeconds": 3001,
+  "publisher": "Big Think",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "Introduction"
+    },
+    {
+      "seconds": 147,
+      "label": "What is Language"
+    },
+    {
+      "seconds": 243,
+      "label": "Writing and Grammar"
+    },
+    {
+      "seconds": 753,
+      "label": "How Language Works"
+    },
+    {
+      "seconds": 819,
+      "label": "The Mental Lexicon"
+    },
+    {
+      "seconds": 924,
+      "label": "Grammar"
+    },
+    {
+      "seconds": 1212,
+      "label": "Openended Creativity"
+    },
+    {
+      "seconds": 1450,
+      "label": "Language Acquisition by Children"
+    },
+    {
+      "seconds": 1484,
+      "label": "Twoword Stage"
+    },
+    {
+      "seconds": 1544,
+      "label": "Past Tense"
+    },
+    {
+      "seconds": 1631,
+      "label": "The Poverty of the Input"
+    },
+    {
+      "seconds": 1831,
+      "label": "Criticism"
+    },
+    {
+      "seconds": 1925,
+      "label": "Phonology"
+    },
+    {
+      "seconds": 2073,
+      "label": "Production"
+    },
+    {
+      "seconds": 2354,
+      "label": "Speech Comprehension"
+    },
+    {
+      "seconds": 2693,
+      "label": "Pragmatics"
+    },
+    {
+      "seconds": 2872,
+      "label": "Questions"
+    },
+    {
+      "seconds": 2937,
+      "label": "Conclusion"
+    }
+  ],
+  "captionTracks": [
+    {
+      "language": "en"
+    },
+    {
+      "language": "en",
+      "kind": "asr"
+    },
+    {
+      "language": "es"
+    },
+    {
+      "language": "es-419"
+    }
+  ],
+  "source": "https://www.youtube.com/watch?v=Q-B_ONJIEcE",
+  "retrieved": "2026-11-10",
+  "evidence": "YouTube chapter metadata; may be automatic, not transcript-reviewed"
+}
